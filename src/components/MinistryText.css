@@ -1,0 +1,11 @@
+/* src/components/MinistryText.css */
+.ministry-text {
+    font-size: 1rem;
+    color: #666;
+    text-align: center;
+    padding: 20px;
+}
+
+.ministry-text h2 {
+    margin: 0;
+}

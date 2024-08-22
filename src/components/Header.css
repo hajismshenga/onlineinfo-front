@@ -1,0 +1,17 @@
+/* src/components/Header.css */
+.header {
+    text-align: center;
+}
+
+.header-logo {
+    width: 120px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.system-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
